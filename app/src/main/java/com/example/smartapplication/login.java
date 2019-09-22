@@ -14,4 +14,17 @@ public class login extends AppCompatActivity {
     public void open (){
         //chamathka updated
     }
+
+    public void openactivity3(){
+
+    }
+
+
+
+    public void inv(){}
+
+
+
+    public void kejfkndf(){}
+
 }
